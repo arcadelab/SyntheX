@@ -1,4 +1,6 @@
 # SyntheX
+[![DOI](https://zenodo.org/badge/588660992.svg)](https://zenodo.org/badge/latestdoi/588660992)
+
 This repository contains the training and testing scripts on the three SyntheX applications, namely hip imaing, surgical tool detection and covid.
 The associated data is provided in a separate folder. Detailed running instructions can be found in each sub folder.
 
